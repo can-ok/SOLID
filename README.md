@@ -65,7 +65,7 @@ Hiçbir cleint kullanmayacağı methodu implemente etmeye zorlanmamalıdır.
 
 #### :gear: Sorumlukların ve ya davranışları bir interface toplamak yerine bunu küçük özelleştirilmiş interfacelere toplamak bu amacı karşılayacaktır.
                                      ↑
-            Böylelikle Single Resposibility p. karışılanmış oluyor
+Böylelikle Single Resposibility p. karışılanmış oluyor
             
 
 Bunu pizza örneği ile açıklayalım:
